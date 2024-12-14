@@ -1,0 +1,13 @@
+SRC 192.168.1.1 DST 192.168.1.10 PRO TCP DENY unspecified
+SRC 152.5.23.120 DST 192.168.255.255 PRO UDP DENY unspecified
+SRC 112.15.9.20 DST 192.168.1.255 PRO UDP DENY unspecified
+SRC 168.1.2.2 DST 192.168.1.255 PRO UDP DENY unspecified
+
+
+
+
+
+
+
+_______________________________________________________________________________________________________
+
